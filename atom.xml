@@ -3,11 +3,11 @@
   <title>PWR</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://love.anderlee.com/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://love.anderlee.com/"/>
   <updated>2020-10-07T18:16:35.225Z</updated>
-  <id>http://example.com/</id>
+  <id>https://love.anderlee.com/</id>
   
   <author>
     <name>lilinxiong</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>LOVE</title>
-    <link href="http://example.com/2020/10/08/love/"/>
-    <id>http://example.com/2020/10/08/love/</id>
+    <link href="https://love.anderlee.com/2020/10/08/love/"/>
+    <id>https://love.anderlee.com/2020/10/08/love/</id>
     <published>2020-10-07T16:44:01.310Z</published>
     <updated>2020-10-07T18:16:35.225Z</updated>
     
